@@ -147,3 +147,5 @@ void strongHeal(int nline) {
         printf("Сильное лечение ветви %d! Ресурсы: %d\n", nline, resources);
     }
 }
+//gffgfg
+//hjik

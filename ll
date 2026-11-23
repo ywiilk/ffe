@@ -153,3 +153,5 @@ void strongHeal(int nline) {
 //m,m
 //hgubbv
 //ддвдвд
+//ммм
+//ппп

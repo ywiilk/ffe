@@ -152,3 +152,4 @@ void strongHeal(int nline) {
 //bhnnh
 //m,m
 //hgubbv
+//ддвдвд
